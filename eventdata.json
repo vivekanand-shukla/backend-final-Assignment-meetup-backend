@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Tech Conference",
+    "eventType": "offline",
+    "eventUrl": "https://static.vecteezy.com/system/resources/thumbnails/060/275/693/small/a-dynamic-business-meeting-in-a-modern-office-brings-together-diverse-professionals-for-innovation-photo.jpg",
+    "eventStart": "2023-07-13T07:00:00.000Z",
+    "eventEnd": "2023-07-13T09:00:00.000Z",
+    "hostedBy": "Tech Innovators",
+    "details": "Join industry experts at the Tech Conference to explore cutting-edge innovations and technologies shaping the future.",
+    "dressCode": "Formal",
+    "age": 18,
+    "eventTags": ["technology", "conference"],
+    "venue": "Innovation Hall, 123 Tech Street, City",
+    "price": 5000,
+    "speakers": [
+      { "name": "John Doe", "post": "CTO" },
+      { "name": "Jane Smith", "post": "Lead Developer" }
+    ]
+  },
+  {
+    "name": "Design Workshop",
+    "eventType": "offline",
+    "eventUrl": "https://static.vecteezy.com/system/resources/thumbnails/012/092/630/small/startup-business-team-at-a-meeting-at-modern-office-building-free-photo.jpg",
+    "eventStart": "2023-07-10T14:00:00.000Z",
+    "eventEnd": "2023-07-10T17:00:00.000Z",
+    "hostedBy": "Creative Minds",
+    "details": "Enhance your design skills at this interactive Design Workshop with hands-on sessions and creative brainstorming.",
+    "dressCode": "Casual",
+    "age": 16,
+    "eventTags": ["design", "creativity"],
+    "venue": "Art Studio, 45 Design Avenue, City",
+    "price": 2000,
+    "speakers": [
+      { "name": "Alice Green", "post": "Graphic Designer" },
+      { "name": "Bob Lee", "post": "UI/UX Specialist" }
+    ]
+  },
+  {
+    "name": "Marketing Seminar",
+    "eventType": "offline",
+    "eventUrl": "https://cdn.create.vista.com/api/media/small/109885018/stock-photo-young-business-man-with-tablet-at-office-meeting-room",
+    "eventStart": "2023-08-15T10:00:00.000Z",
+    "eventEnd": "2023-08-15T12:00:00.000Z",
+    "hostedBy": "Marketing Experts",
+    "details": "Stay ahead of the game in the dynamic field of digital marketing by attending the Marketing Seminar organized by Marketing Experts.",
+    "dressCode": "Smart casual",
+    "age": 18,
+    "eventTags": ["marketing", "digital"],
+    "venue": "Marketing City, 789 Marketing Avenue, City",
+    "price": 3000,
+    "speakers": [
+      { "name": "Sarah Johnson", "post": "Marketing Manager" },
+      { "name": "Michael Brown", "post": "SEO Specialist" }
+    ]
+  },
+  {
+    "name": "Online Business Webinar",
+    "eventType": "online",
+    "eventUrl": "https://media.istockphoto.com/id/1413759115/photo/group-of-business-people-in-meeting-working-together.jpg?s=612x612&w=0&k=20&c=PqvCKThyEUvLPLVNb-LpiOqxyOHKwpuFavoOB26RWQI=",
+    "eventStart": "2023-09-05T15:00:00.000Z",
+    "eventEnd": "2023-09-05T17:00:00.000Z",
+    "hostedBy": "Business Gurus",
+    "details": "Learn how to start and scale your online business with strategies from successful entrepreneurs.",
+    "dressCode": "Any",
+    "age": 18,
+    "eventTags": ["business", "startup"],
+    "venue": "some vanue",
+    "price": 1500,
+    "speakers": [
+      { "name": "David Clark", "post": "Entrepreneur" },
+      { "name": "Emma Wilson", "post": "E-commerce Specialist" }
+    ]
+  },
+  {
+    "name": "Photography Meetup",
+    "eventType": "offline",
+    "eventUrl": "https://static.vecteezy.com/system/resources/thumbnails/038/516/172/small/group-of-business-people-working-in-office-and-discussing-new-ideas-boss-meeting-team-for-new-project-free-photo.jpg",
+    "eventStart": "2023-07-20T09:00:00.000Z",
+    "eventEnd": "2023-07-20T13:00:00.000Z",
+    "hostedBy": "Photo Enthusiasts Club",
+    "details": "Connect with fellow photographers, share your portfolio, and learn new photography techniques.",
+    "dressCode": "Casual",
+    "age": 15,
+    "eventTags": ["photography", "creative"],
+    "venue": "City Park, Main Square, City",
+    "price": 1000,
+    "speakers": [
+      { "name": "Oliver White", "post": "Wildlife Photographer" },
+      { "name": "Sophia Adams", "post": "Portrait Specialist" }
+    ]
+  },
+  {
+    "name": "Art & Culture Online Meetup",
+    "eventType": "online",
+    "eventUrl": "https://thumbs.dreamstime.com/b/business-meeting-office-19901619.jpg",
+    "eventStart": "2023-08-01T11:00:00.000Z",
+    "eventEnd": "2023-08-01T13:00:00.000Z",
+    "hostedBy": "Global Artists",
+    "details": "Explore art and cultural diversity in this online meetup featuring international artists.",
+    "dressCode": "Any",
+    "age": 12,
+    "eventTags": ["art", "culture"],
+    "venue": "some new vanue",
+    "price": 0,
+    "speakers": [
+      { "name": "Liam Scott", "post": "Painter" },
+      { "name": "Mia Davis", "post": "Cultural Historian" }
+    ]
+  }
+]
