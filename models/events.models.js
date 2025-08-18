@@ -52,7 +52,9 @@ const meetupAppSchema = new mongoose.Schema({
   },
   speakers: [{
     name: { type: String, required: true },
-    post: { type: String, required: true }
+    post: { type: String, required: true },
+    imgurl : {type: String } 
+    
   }]
 });
 

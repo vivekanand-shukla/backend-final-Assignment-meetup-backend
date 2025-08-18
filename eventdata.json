@@ -13,8 +13,8 @@
     "venue": "Innovation Hall, 123 Tech Street, City",
     "price": 5000,
     "speakers": [
-      { "name": "John Doe", "post": "CTO" },
-      { "name": "Jane Smith", "post": "Lead Developer" }
+      { "name": "John Doe", "post": "CTO"  , "imgurl":"https://media.gettyimages.com/id/1408834095/photo/smiling-young-woman-with-smartphone-walking-on-the-street.jpg?s=612x612&w=0&k=20&c=Ze0370kSSw9RNjbTg-WpxWil9Ro2SGV7GWv7GUR4LIQ="},
+      { "name": "Jane Smith", "post": "Lead Developer" ,"imgurl" :"https://media.gettyimages.com/id/1357947512/photo/a-delighted-african-american-woman-texting-on-her-smartphone-while-walking-through-the-city.jpg?s=612x612&w=0&k=20&c=Cv-9E12bA1bTaCEwLQN9os4p7wOOq5LE4Olb2Vw-DLI="}
     ]
   },
   {
@@ -31,8 +31,8 @@
     "venue": "Art Studio, 45 Design Avenue, City",
     "price": 2000,
     "speakers": [
-      { "name": "Alice Green", "post": "Graphic Designer" },
-      { "name": "Bob Lee", "post": "UI/UX Specialist" }
+      { "name": "Alice Green", "post": "Graphic Designer" ,"imgurl" :"https://media.istockphoto.com/id/1846538503/photo/woman-walking-on-the-sidewalk-at-urban-setting-and-talking-on-the-phone.jpg?s=612x612&w=0&k=20&c=etkDJUYdeQD0hjN-i7nI1O8DI0IZ0V-VFXbAORPBLpE=" },
+      { "name": "Bob Lee", "post": "UI/UX Specialist"  ,"imgurl" :"https://media.gettyimages.com/id/1420486889/photo/candid-portrait-of-young-middle-eastern-digital-native.jpg?s=612x612&w=0&k=20&c=SV7ZhKg7qCeL6oYZGBaIxqfTTrQZu08kndvIKqdL_PI="}
     ]
   },
   {
@@ -49,8 +49,8 @@
     "venue": "Marketing City, 789 Marketing Avenue, City",
     "price": 3000,
     "speakers": [
-      { "name": "Sarah Johnson", "post": "Marketing Manager" },
-      { "name": "Michael Brown", "post": "SEO Specialist" }
+      { "name": "Sarah Johnson", "post": "Marketing Manager" ,"imgurl" :"https://media.gettyimages.com/id/1367909982/photo/young-african-american-man-uses-a-mobile-phone-on-the-go.jpg?s=612x612&w=0&k=20&c=tPLvf_JIFcwQr-XGJBjJbgiXBJYYSzTQMZZz-nYkbUw=" },
+      { "name": "Michael Brown", "post": "SEO Specialist" ,"imgurl" :"https://cdn.create.vista.com/api/media/small/70887117/stock-photo-young-woman-using-cell-phone" }
     ]
   },
   {
@@ -67,8 +67,8 @@
     "venue": "some vanue",
     "price": 1500,
     "speakers": [
-      { "name": "David Clark", "post": "Entrepreneur" },
-      { "name": "Emma Wilson", "post": "E-commerce Specialist" }
+      { "name": "David Clark", "post": "Entrepreneur" ,"imgurl" :"https://media.istockphoto.com/id/1429991322/photo/carefree-young-woman-playing-music-using-a-smartphone-and-earbuds.jpg?s=612x612&w=0&k=20&c=oI58A61Q7ndCtR53oVod_gQN7MsetK8Srn2PYUnh0rw=" },
+      { "name": "Emma Wilson", "post": "E-commerce Specialist" ,"imgurl" :"https://media.gettyimages.com/id/1496098113/photo/a-happy-beautiful-blonde-businesswoman-using-her-mobile-phone-while-working-in-the-office.jpg?s=612x612&w=0&k=20&c=yGLiumbWsBv7M81Cr9-_Qcr447s-63qrhkhXERwea0E=" }
     ]
   },
   {
@@ -85,8 +85,8 @@
     "venue": "City Park, Main Square, City",
     "price": 1000,
     "speakers": [
-      { "name": "Oliver White", "post": "Wildlife Photographer" },
-      { "name": "Sophia Adams", "post": "Portrait Specialist" }
+      { "name": "Oliver White", "post": "Wildlife Photographer" ,"imgurl" :"https://cdn.pixabay.com/photo/2014/09/17/11/47/man-449404_640.jpg" },
+      { "name": "Sophia Adams", "post": "Portrait Specialist"  ,"imgurl" :"https://cdn.pixabay.com/photo/2015/12/09/04/27/a-single-person-1084191_640.jpg"}
     ]
   },
   {
@@ -101,10 +101,10 @@
     "age": 12,
     "eventTags": ["art", "culture"],
     "venue": "some new vanue",
-    "price": 0,
+    "price": 15,
     "speakers": [
-      { "name": "Liam Scott", "post": "Painter" },
-      { "name": "Mia Davis", "post": "Cultural Historian" }
+      { "name": "Liam Scott", "post": "Painter"  ,"imgurl" :"https://cdn.pixabay.com/photo/2017/04/01/21/06/portrait-2194457_1280.jpg"},
+      { "name": "Mia Davis", "post": "Cultural Historian" ,"imgurl" :"https://cdn.pixabay.com/photo/2017/04/01/21/06/portrait-2194457_1280.jpg" }
     ]
   }
 ]
